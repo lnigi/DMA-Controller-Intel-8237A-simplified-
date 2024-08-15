@@ -1,4 +1,4 @@
-<h1>DMA Controller Intel 8237A simplified</h1>
+<h1>DMA Controller Intel 8237A (simplified)</h1>
 I realized this Verilog implementation with my two colleagues Vittorio Sali and Francesco Interlandi as a project for the course in Architettura dei Calcolatori (Computer Architecture) we took in university in 2023.
 
 <h2>What can I find in this repository?</h2>
