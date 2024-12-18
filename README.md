@@ -1,5 +1,5 @@
 <h1>DMA Controller Intel 8237A (simplified)</h1>
-I realized this Verilog implementation with my two colleagues Vittorio Sali and Francesco Interlandi as a project for the course in Architettura dei Calcolatori (Computer Architecture) we took in university in 2023.
+I realized this Verilog implementation with my two colleagues Vittorio Sali and Francesco Interlandi as a project for the course in Architettura dei Calcolatori (Computer Architecture) we took in University of Siena, with Professor Roberto Giorgi, in 2023.
 
 <h2>What can I find in this repository?</h2>
 The implementation of the device is not complete in relation to the original device sold by Intel, as not all the functions described in the original datasheet are not present.
